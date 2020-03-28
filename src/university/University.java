@@ -76,8 +76,8 @@ public class University {
 			if(var.getSerial() == id) {
 				return var.getSerial() + var.getFullName();
 			}
-			return null;
 		}
+		return null;
 	}
 	
 	/**
