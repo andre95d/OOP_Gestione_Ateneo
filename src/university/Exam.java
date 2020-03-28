@@ -1,4 +1,4 @@
-
+package university;
 
 public class Exam{
 	private String title;
